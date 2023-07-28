@@ -4,7 +4,7 @@
 <div dsplay="inline-block">
  
  <a href="https://www.instagram.com/eeiangela/">
-    <img align="left" width="80px" src="[https://i.ibb.co/qkGSp1D/instagram.png](https://img.icons8.com/?size=512&id=TEYr8ETaIfBJ&format=png)" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
 </div>
 
