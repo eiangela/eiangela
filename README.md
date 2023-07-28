@@ -27,3 +27,6 @@ Let's grow together on this incredible programming journey!
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
+
+<a href="https://www.linkedin.com/in/angela-ribeiro-95a232209/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
