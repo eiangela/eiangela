@@ -1,9 +1,6 @@
 # 👋 Hello, Devs!! Welcome to my Github profile.
 <img width="300px" align="right" src="https://i.ibb.co/6v02CS8/octocat-1690504321214.png">
-
 <br>
-<br>
-
 <div dsplay="inline-block">
   <a href="https://www.instagram.com/eeiangela/">
     <img align="left" width="80px" src="https://img.icons8.com/?size=512&id=TEYr8ETaIfBJ&format=png" alt="instagram" style="vertical-align:top;">
