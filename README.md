@@ -13,7 +13,7 @@ In addition to web development, I have an interest in UX/UI design, which enable
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" 
      width="60" 
      height="60" 
-     style="60: block; margin: 0 auto;" />
+    />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
       width="60" 
      height="60" 
