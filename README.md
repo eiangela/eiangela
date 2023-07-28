@@ -21,8 +21,8 @@ Let's grow together on this incredible programming journey!
 
 <p align="center">
   <a href="https://github.com/eiangela">
-       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=8&theme=algolia"/>
-       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiangela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em"src="https://githubreadmestatseighttheta.vercel.app/apiusername=eiangela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 #FrontEndDeveloper #HTML #CSS #JavaScript #UXUI #WebDevelopment
