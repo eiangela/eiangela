@@ -1,4 +1,5 @@
 # 👋 Hello, Devs!! Welcome to my Github profile.
+<img width="300px" align="right" src="https://i.ibb.co/6v02CS8/octocat-1690504321214.png">
 
 I'm a Junior Front-End Developer passionate about technology and design. Currently, I'm focusing on learning and improving my skills in HTML, CSS, and JavaScript, aiming to create intuitive and appealing web interfaces.
 
