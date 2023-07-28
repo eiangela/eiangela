@@ -21,7 +21,7 @@ In addition to web development, I have an interest in UX/UI design, which enable
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
      width="60" 
      height="60" 
-     style="display: block; margin: 0 auto;" />
+     style="display: block; margin: 0 auto; align-items:center;" />
 
 Feel free to explore my repositories and projects here on GitHub. I'm always open to new learning opportunities and partnerships, so if you'd like to exchange experiences or collaborate on any project, don't hesitate to get in touch!
 
