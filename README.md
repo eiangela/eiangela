@@ -6,7 +6,7 @@
     <img align="left" width="80px" src="https://img.icons8.com/?size=512&id=TEYr8ETaIfBJ&format=png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/angela-ribeiro-95a232209">
-    <img width="80px" src="https://img.icons8.com/?size=512&id=44019&format=png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://img.icons8.com/?size=512&id=118979&format=png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
  
