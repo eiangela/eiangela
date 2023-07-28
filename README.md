@@ -23,9 +23,9 @@ Let's grow together on this incredible programming journey!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
       width="100" 
      height="100" 
-     style="display: block; margin: 0 auto;" />/>
+     style="display: block; margin: 0 auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
      width="100" 
      height="100" 
-     style="display: block; margin: 0 auto;" />/>
+     style="display: block; margin: 0 auto;" />
 
