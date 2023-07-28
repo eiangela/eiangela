@@ -1,13 +1,13 @@
 # 👋 Hello, Devs!! Welcome to my Github profile.
 <img width="300px" align="right" src="https://i.ibb.co/6v02CS8/octocat-1690504321214.png">
-
+#
 <div dsplay="inline-block">
  
  <a href="https://www.instagram.com/eeiangela/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
 </div>
-
+#
 I'm a Junior Front-End Developer passionate about technology and design. Currently, I'm focusing on learning and improving my skills in HTML, CSS, and JavaScript, aiming to create intuitive and appealing web interfaces.
 
 I've embarked on this exciting career full of challenges and growth opportunities, and I'm eager to absorb knowledge continuously. My dedication and enthusiasm drive me to learn more every day, whether through hands-on projects or theoretical studies.
