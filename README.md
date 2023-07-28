@@ -10,12 +10,6 @@ I believe that technology has the power to transform lives and simplify people's
 
 In addition to web development, I have an interest in UX/UI design, which enables me to understand the importance of usability and aesthetics in a digital product.
 
-Feel free to explore my repositories and projects here on GitHub. I'm always open to new learning opportunities and partnerships, so if you'd like to exchange experiences or collaborate on any project, don't hesitate to get in touch!
-
-Let's grow together on this incredible programming journey!
-
-#FrontEndDeveloper #HTML #CSS #JavaScript #UXUI #WebDevelopment
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" 
      width="60" 
      height="60" 
@@ -29,8 +23,14 @@ Let's grow together on this incredible programming journey!
      height="60" 
      style="display: block; margin: 0 auto;" />
 
+Feel free to explore my repositories and projects here on GitHub. I'm always open to new learning opportunities and partnerships, so if you'd like to exchange experiences or collaborate on any project, don't hesitate to get in touch!
+
+Let's grow together on this incredible programming journey!
+
 <div>
 <a href="https://github.com/eiangela">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?eiangela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+#FrontEndDeveloper #HTML #CSS #JavaScript #UXUI #WebDevelopment
