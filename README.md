@@ -17,15 +17,15 @@ Let's grow together on this incredible programming journey!
 #FrontEndDeveloper #HTML #CSS #JavaScript #UXUI #WebDevelopment
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" 
-     width="100" 
-     height="100" 
+     width="80" 
+     height="80" 
      style="display: block; margin: 0 auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
-      width="100" 
-     height="100" 
+      width="80" 
+     height="80" 
      style="display: block; margin: 0 auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-     width="100" 
-     height="100" 
+     width="80" 
+     height="80" 
      style="display: block; margin: 0 auto;" />
 
