@@ -29,3 +29,8 @@ Let's grow together on this incredible programming journey!
      height="60" 
      style="display: block; margin: 0 auto;" />
 
+<div>
+<a href="https://github.com/eiangela">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?eiangela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
