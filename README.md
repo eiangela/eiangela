@@ -27,6 +27,3 @@ Let's grow together on this incredible programming journey!
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiangela&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-#FrontEndDeveloper #HTML #CSS #JavaScript #UXUI #WebDevelopment
-
-<img width="300px" align="right" src="[https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png](https://fv5-3.failiem.lv/thumb_show.php?i=vrjhy2gqe&download_checksum=5b1128cb11213f4aa9131f3883b13972c5be88d0&download_timestamp=1690507433)https://fv5-3.failiem.lv/thumb_show.php?i=vrjhy2gqe&download_checksum=5b1128cb11213f4aa9131f3883b13972c5be88d0&download_timestamp=1690507433">
