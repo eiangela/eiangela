@@ -9,7 +9,7 @@
     <img width="80px" src="https://img.icons8.com/?size=512&id=108812&format=png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
- <p>💻 Software Developer | Front-end & Back-end | Passionate about solving problems through code
+ <p>💻 <strong>Software Developer | Front-end & Back-end | Passionate about solving problems through code</strong>
 
 Since 2023, I’ve been working as a developer, building solutions that combine functionality with great user experience. My main focus is on front-end development using JavaScript, Vue.js, React, React Native, TailwindCSS, and SASS, while also working on the back-end with Node.js and SQL Server.</p>
 
@@ -18,7 +18,7 @@ Since 2023, I’ve been working as a developer, building solutions that combine 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
 </p>
-##
+
 <p align="center">
     <a href="https://github.com/eiangela">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiangela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
